@@ -1,4 +1,6 @@
 <h1 align="center" id="title">Shopping Cart using Python OOP Concepts</h1>
+<p align="center"><img src="https://socialify.git.ci/iammartariq/Second-Semester-CEP/image?font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Light"></p>
+
 
 <p id="description">
 
